@@ -9,7 +9,7 @@
 #print(isinstance(object1, Student))
 
 
-########
+#########
 #### Class Methods
 class Student:
     def __init__(self, name):
